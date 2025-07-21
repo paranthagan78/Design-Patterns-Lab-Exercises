@@ -1,0 +1,16 @@
+{
+    "ram": [
+        {
+            "message": "Hello Ram, How are you...",
+            "timestamp": "17/11/2023, 15:35:31",
+            "to": "ram",
+            "type": "sent"
+        },
+        {
+            "message": "Hello Ram, How are you...",
+            "timestamp": "17/11/2023, 15:35:31",
+            "from": "ram",
+            "type": "received"
+        }
+    ]
+}
